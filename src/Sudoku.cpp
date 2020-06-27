@@ -1,11 +1,6 @@
 /*
-Name: Nolan Raghu
-VUnetID: raghun
-Email: nolan.raghu@vanderbilt.edu
-Class: CS 3270 - Vanderbilt University
-Date: 2/17/2020
-Honor statement: I pledge on my honor that I have neither given nor received unauthorized aid on
-this examination.”
+Created by: Nolan Raghu
+Last edited on:6/26/20
 
 
  */
